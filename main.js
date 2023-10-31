@@ -23,10 +23,10 @@ $(function () {
             });
         });
 
-    var publishable_key = "rf_5w20VzQObTXjJhTjq6kad9ubrm33";
+    var publishable_key = "IO4rqAxDFqFfxN7jjxi3";
     var toLoad = {
-        model: "egohands-public",
-        version: 9
+        model: "hard-hat-sample-frqsj",
+        version: 2
     };
 
     const loadModelPromise = new Promise(function (resolve, reject) {
