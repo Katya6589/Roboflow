@@ -23,9 +23,9 @@ $(function () {
             });
         });
 
-    var publishable_key = "IO4rqAxDFqFfxN7jjxi3";
+    var publishable_key = "TMRRJweueSDb4nqTAVye";
     var toLoad = {
-        model: "hard-hat-sample-frqsj",
+        model: "siz-eac9r",
         version: 2
     };
 
